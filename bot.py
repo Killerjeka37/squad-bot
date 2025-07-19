@@ -1,4 +1,10 @@
 import sys
+print("Python executable:", sys.executable)
+print("Python version:", sys.version)
+print("sys.path:", sys.path)
+
+import telebot
+import sys
 print("Python version:", sys.version)
 import telebot
 import telebot

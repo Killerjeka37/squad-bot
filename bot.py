@@ -1,4 +1,6 @@
-
+import sys
+print("Python version:", sys.version)
+import telebot
 import telebot
 
 TOKEN = "8003269735:AAGLjbAwLKxQwLXsTTjljooNUHcf9vHtaNo"
